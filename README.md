@@ -12,6 +12,6 @@ If the item is a quest item, it will be highlighted yellow. If the item is a que
 ## Install
 Run this command in the graphical CLI:
 ```
-git checkout https://github.com/ckb11/InventoryWTF main
+git checkout https://github.com/ckb11/InventoryWTF
 ```
 Will require [a recent build of KoLMafia](http://builds.kolmafia.us/job/Kolmafia/lastSuccessfulBuild/).
