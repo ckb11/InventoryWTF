@@ -1,0 +1,470 @@
+/*
+
+aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, olive, purple, red, silver, teal, white, yellow
+orange
+
+
+red = #FFDDDD; 
+green = #DDFFDD; 
+purple = #FFDDFF; 
+blue = #DDDDFF; 
+cyan = #DDFFFF; 
+yellow = #FFFFDD; 
+
+*/
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: white;
+	color: black;
+}
+
+img {
+	border: 0;
+}
+
+a {
+	text-decoration: none; 
+}
+
+a:hover {
+	color: blue;
+	/*text-decoration: underline;*/
+	text-decoration: none;
+}
+
+
+small {
+	font-size: 10px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+em {
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* Modifier description classes*/
+.desc {
+	color: dimgray;
+	text-align: left;
+	font-size: 10px;
+	font-weight: normal;
+   font-style: normal;
+}
+
+.lft {
+	text-align: left; 
+}
+
+.rit {
+	text-align: right; 
+}
+
+.strike {
+	text-decoration: line-through;
+}
+
+.modphys {
+	color: black;
+}
+
+.modcold {
+	color: blue;
+}
+
+.modhot {
+	color: red;
+}
+
+.modsleaze {
+	color: blueviolet;
+}
+
+.modstench {
+	color: green;
+}
+
+.modspooky {
+	color: gray;
+}
+
+.moditem {
+	color: fuchsia;
+}
+
+.modml {
+	color: orange;
+}
+
+.modextra {
+	color: maroon;
+}
+
+.modepic {
+	color: blueviolet;
+}
+
+.modawesome {
+	color: blue;
+}
+
+.modgood {
+	color: green;
+}
+
+.modcrappy {
+	color: #999999;
+}
+
+.modeffect {
+	color: dimgray;
+}
+
+.modspecial {
+	color: fuchsia;
+}
+
+.modnoob {
+	color: teal;
+}
+
+.itquest {
+	background-color: #FFFFCC; /*yellow*/
+}
+
+.itcool {
+	background-color: #FFCCCC; /*light red*/
+}
+
+.itnotrade {
+	background-color: #DDFFFF; /*cyan*/
+}
+
+.itexp {
+	background-color: #DDFFDD; /*green*/
+}
+
+/*do not have it is red*/
+.haveno {
+	background-color: #FFDDDD; 
+} 
+
+/*do have it is green*/
+.haveyes {
+	background-color: #DDFFDD; 
+} 
+
+/*maybe is yellow*/
+.havemaybe {
+	background-color: #FFFFCC;
+} 
+
+
+/****** Skills WTF style ID ******/
+#sklwtf {
+}
+
+#sklwtf a {
+	text-decoration: none; 
+}
+
+#sklwtf a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+#sklwtf table {
+	border: 1px solid blue;
+	width: 95%;
+	padding: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+#sklwtf th {
+	font-weight: bold;
+	font-size: 100%;
+	background-color: blue;
+	color: white;
+	text-align: center; 
+}
+
+#sklwtf td {
+	border-bottom: 1px solid lightgray;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 12px;
+}
+
+#sklwtf tr:last-child td {
+	border-bottom: 0; 
+}
+
+#sklwtf img {
+	border: 0;
+	height: 20px;
+	width: 20px; 
+}
+
+#sklwtf form {
+	height: 12px;
+	vertical-align: middle; 
+}
+
+#sklwtf .lft {
+	text-align: left; 
+}
+
+/*heal is red */
+#sklwtf .heal {
+	background-color: #FFDDDD; 
+} 
+
+/*buff is green */
+#sklwtf .buff {
+	background-color: #DDFFDD; 
+} 
+
+/*song is purple */
+#sklwtf .song {
+	background-color: #FFDDFF; 
+} 
+
+/*expression is blue */
+#sklwtf .expr {
+	background-color: #DDDDFF; 
+} 
+
+/*AT tune is cyan */
+#sklwtf .att {
+	background-color: #DDFFFF; 
+}
+
+/*Pasta thrall is yellow */
+#sklwtf .thrall {
+	background-color: #FFFFDD; 
+}
+
+#sklwtf .alert {
+	color: maroon; 
+}
+
+
+/****** Familiar WTF style ID ******/
+#famwtf .faminfo {
+	font-size: 10px;
+}
+
+#famwtf .famstat {
+	color: blue;
+} 
+#famwtf .famadv {
+	color: blue;
+} 
+#famwtf .famitem {
+	color: fuchsia;
+} 
+#famwtf .fammeat {
+	color: fuchsia;
+} 
+#famwtf .famhp {
+	color: red;
+} 
+#famwtf .fammp {
+	color: purple;
+} 
+#famwtf .famdmg {
+	color: maroon;
+} 
+#famwtf .famdev {
+	color: olive;
+} 
+#famwtf .famblock {
+	color: olive;
+} 
+#famwtf .famsorb {
+	color: olive;
+} 
+#famwtf .famcopy {
+	color: teal;
+} 
+#famwtf .famspleen {
+	color: orange;
+} 
+#famwtf .famdrop {
+	color: orange;
+} 
+#famwtf .faminit {
+	color: maroon;
+}
+#famwtf .famml {
+	color: orange;
+} 
+#famwtf .famsea {
+	color: blue;
+} 
+#famwtf .famnot {
+	color: black;
+} 
+
+
+/****** Cards Cheat WTF style ID ******/
+#cardwtf {
+}
+
+#cardwtf a {
+	text-decoration: none; 
+}
+
+#cardwtf a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+#cardwtf table {
+	border: 0;
+	width: 245px;
+	padding: 0;
+	/*border-spacing: 0;*/
+	/*border-collapse: collapse;*/
+	margin: 5px;
+}
+
+#cardwtf th {
+	font-weight: bold;
+	background-color: blue;
+	color: white;
+	text-align: center; 
+}
+
+#cardwtf td {
+	vertical-align: middle;
+	text-align: center;
+	font-size: 12px;
+}
+
+#cardwtf .cardback {
+	min-width: 100px;
+	max-width: 100px;
+	height: 120px;
+	border: 2px solid dimgray;
+	border-radius: 10px;
+}
+
+#cardwtf img {
+	border: 0;
+	height: 50px;
+	/*width: 50px;*/
+}
+
+#cardwtf form {
+	vertical-align: middle;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+#cardwtf .buttlink {
+	overflow: visible;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: transparent;
+	font: inherit;
+	font-weight: bold;
+	line-height: normal;
+	text-decoration: none;
+}
+
+#cardwtf .buttlink:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+
+/****** Items WTF style ID ******/
+#itwtf {
+}
+
+#itwtf a {
+	text-decoration: none; 
+}
+
+#itwtf a:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+#itwtf table {
+	border: 1px solid blue;
+	width: 95%;
+	padding: 0;
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+
+#itwtf th {
+	font-weight: bold;
+	font-size: 100%;
+	background-color: blue;
+	color: white;
+	text-align: center; 
+}
+
+#itwtf td {
+	border-bottom: 1px solid lightgray;
+	vertical-align: middle;
+	text-align: center;
+	font-size: 12px;
+}
+
+#itwtf tr:last-child td {
+	border-bottom: 0; 
+}
+
+#itwtf .desc {
+	color: dimgray;
+	text-align: left;
+	font-size: 12px;
+	font-weight: normal;
+	font-style: normal;
+}
+
+#itwtf .lft {
+	text-align: left; 
+}
+
+#itwtf .rit {
+	text-align: right; 
+}
+
+#itwtf form {
+	vertical-align: middle;
+	display: block;
+	margin-top: 0;
+	margin-block-end: 0;
+}
+
+#itwtf .buttlink {
+	overflow: visible;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	background: transparent;
+	font: inherit;
+	line-height: normal;
+	vertical-align: middle;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#itwtf .buttlink:hover {
+	color: blue;
+	text-decoration: underline;
+}
+
+
+

@@ -1,0 +1,1433 @@
+ten-leaf clover	green
+meat paste	maroon
+pretty flower	pink
+heart of rock and roll	maroon
+golden twig	gold
+wooden stakes	brown
+pretty bouquet	pink
+rusty metal ring	rust
+rusty metal shaft	rust
+rusty metal key	rust
+meat from yesterday	maroon
+meat stack	maroon
+ketchup	red
+catsup	red
+spring	silver
+dingy planks	brown
+taco shell	gold
+fat stacks of cash	green
+disassembled clover	green
+carob chunks	brown
+phat turquoise bead	teal
+phat turquoise bracelet	teal
+orange	orange
+grapefruit	yellow
+grapes	purple
+olive	olive
+tomato	red
+bloody mary	maroon
+shot of orange schnapps	orange
+shot of grapefruit schnapps	yellow
+shot of tomato schnapps	red
+extra-spicy bloody mary	maroon
+dense meat stack	maroon
+gasmask	green
+tamarind-flavored chewing gum	brown
+lime-and-chile-flavored chewing gum	green
+pickle-flavored chewing gum	darkgreen
+jabañero-flavored chewing gum	orange
+bean burrito	brown
+spicy bean burrito	brown
+insanely spicy bean burrito	brown
+enchanted bean burrito	brown
+spicy enchanted bean burrito	brown
+insanely spicy enchanted bean burrito	brown
+lemon	yellow
+lime	green
+sabre-toothed lime cub	green
+icy katana hilt	blue
+hot katana blade	red
+ninja hot pants	red
+frigid ninja stars	blue
+frozen nunchaku	blue
+gr8ps	purple
+henna tattoo	brown
+tomato juice of powerful power	red
+big red clown nose	red
+jumbo olive	olive
+ye olde golde frontes	gold
+red pixel	red
+green pixel	green
+blue pixel	blue
+red pixel potion	red
+blue pixel potion	blue
+green pixel potion	green
+purple pixel pie	purple
+ruby W	red
+evil golden arch	gold
+ketchup hound	red
+papaya	darkgreen
+evil golden arches	gold
+Boris's key lime	green
+Jarlsberg's key lime	green
+Sneaky Pete's key lime	green
+Pine-Fresh air freshener	darkgreen
+soft green echo eyedrop antidote	green
+glowing red eye	red
+toast	brown
+cranberries	maroon
+vodka and cranberry	maroon
+pink pony	pink
+blood of the Wereseal	maroon
+hamethyst	pink
+baconstone	maroon
+porquoise	teal
+hamethyst earring	pink
+hamethyst necklace	pink
+hamethyst bracelet	pink
+hamethyst ring	pink
+baconstone earring	maroon
+baconstone pendant	maroon
+baconstone bracelet	maroon
+baconstone ring	maroon
+porquoise eyebrow ring	teal
+porquoise necklace	teal
+porquoise bracelet	teal
+porquoise ring	teal
+flaming mushroom	red
+frozen mushroom	blue
+stinky mushroom	green
+ghost cucumber	green
+dill	green
+spectral pickle	darkgreen
+ghost pickle on a stick	darkgreen
+strawberry	red
+strawberry daiquiri	red
+#Golden Mr. Accessory	gold
+pixellated candy heart	red
+candy cane	red
+gingerbread bugbear	brown
+skewered jumbo olive	olive
+skewered lime	green
+skewered cherry	red
+cherry	red
+#1000
+Valentine	pink
+green beer	green
+string of red beads	red
+string of blue beads	blue
+string of green beads	green
+orange traffic cone	orange
+red striped oyster egg	red
+red polka-dot oyster egg	red
+red paisley oyster egg	red
+red plastic oyster egg	red
+blue striped oyster egg	blue
+blue polka-dot oyster egg	blue
+blue paisley oyster egg	blue
+blue plastic oyster egg	blue
+puce striped oyster egg	pink
+puce polka-dot oyster egg	pink
+puce paisley oyster egg	pink
+puce plastic oyster egg	pink
+mauve striped oyster egg	pink
+mauve polka-dot oyster egg	pink
+mauve paisley oyster egg	pink
+mauve plastic oyster egg	pink
+lavender striped oyster egg	violet
+lavender polka-dot oyster egg	violet
+lavender paisley oyster egg	violet
+lavender plastic oyster egg	violet
+yellow striped oyster egg	yellow
+yellow polka-dot oyster egg	yellow
+yellow paisley oyster egg	yellow
+yellow plastic oyster egg	yellow
+unwound clockwork grapefruit	yellow
+pregnant flaming mushroom	red
+pregnant frozen mushroom	blue
+pregnant stinky mushroom	green
+beet	maroon
+flaming mushroom wine	red
+icy mushroom wine	blue
+stinky mushroom wine	green
+spooky mushroom wine	gray
+shot of flower schnapps	pink
+plain brown wrapper	brown
+stuffed sabre-toothed lime	green
+blue velvet cake	blue
+green balloon	green
+red balloon	red
+flaming glowsticks	red
+iced-out bling	blue
+limburger biker boots	green
+miniature carton of clove cigarettes	gray
+jumping bean burrito	brown
+spicy jumping bean burrito	brown
+insanely spicy jumping bean burrito	brown
+yellow traffic cone	yellow
+ring of cold resistance	blue
+ring of fire resistance	red
+red traffic cone	red
+funky brass fez	bronze
+rose-colored glasses	pink
+blood flower	maroon
+plastic passion fruit	purple
+1.21 jigawatts	yellow
+redrum	red
+golden sausage	gold
+tofurkey leg	brown
+can-shaped gelatinous cranberry sauce	maroon
+candied yams	orange
+fancy chocolate	brown
+purple snowcone	purple
+green snowcone	green
+orange snowcone	orange
+red snowcone	red
+blue snowcone	blue
+green traffic cone	green
+pregnant oily golden mushroom	gold
+oily golden mushroom	gold
+hot pink lipstick	pink
+hot powder	red
+cold powder	blue
+spooky powder	gray
+stench powder	green
+sleaze powder	purple
+hot nuggets	red
+cold nuggets	blue
+spooky nuggets	gray
+stench nuggets	green
+sleaze nuggets	purple
+hot wad	red
+cold wad	blue
+spooky wad	gray
+stench wad	green
+sleaze wad	purple
+squashed frog	darkgreen
+sleazy fairy gravy	purple
+yellow plastic hard hat	yellow
+wooden salad bowl	brown
+blue traffic cone	blue
+yellow snowcone	yellow
+vampire heart	maroon
+bottle of used blood	maroon
+fake plastic grass	green
+grass skirt	green
+grass hat	green
+grass blade	green
+Codex of Capsaicin Conjuration	red
+Gazpacho's Glacial Grimoire	blue
+kumquat	orange
+tangerine	orange
+raspberry	red
+kiwi	brown
+hot hi mein	red
+cold hi mein	blue
+spooky hi mein	gray
+stinky hi mein	green
+sleazy hi mein	purple
+blue-frosted astral cupcake	blue
+green-frosted astral cupcake	green
+orange-frosted astral cupcake	orange
+purple-frosted astral cupcake	purple
+pink-frosted astral cupcake	pink
+lotion of hotness	red
+lotion of coldness	blue
+lotion of spookiness	gray
+lotion of stench	green
+lotion of sleaziness	purple
+hot and sour sauce	red
+cold and sour sauce	blue
+spooky and sour sauce	gray
+stench and sour sauce	green
+sleazy and sour sauce	purple
+brick	maroon
+blue ribbon	blue
+flaming cardboard sword	red
+flypaper staff	gray
+grease gun	purple
+Frost&trade; brand sword	blue
+pestoblade	green
+poutine pole	purple
+glistening staff	purple
+smoldering staff	green
+hot cross bow	red
+carob cannon	green
+shuddersword	gray
+projectile icemaker	blue
+buffalo blade	purple
+giant cheesestick	purple
+potato pistol	purple
+foon of fulmination	red
+foon of frigidity	blue
+foon of foulness	green
+foon of fearfulness	gray
+foon of fleshiness	purple
+dishrag	green
+stale baguette	brown
+1-ball	yellow
+2-ball	blue
+3-ball	red
+4-ball	purple
+5-ball	orange
+6-ball	green
+7-ball	maroon
+9-ball	yellow
+snifter of thoroughly aged brandy	maroon
+plastic pumpkin bucket	orange
+silver shrimp fork	silver
+stuffed flaming gravy fairy	red
+stuffed frozen gravy fairy	blue
+stuffed stinky gravy fairy	green
+stuffed sleazy gravy fairy	purple
+#2000
+round purple sunglasses	purple
+brain-meltingly-hot chicken wings	orange
+distressed denim pants	navy
+orange glowstick	orange
+bloodstained briquette	maroon
+big leaf	green
+fire	red
+leaf tube	brown
+safety vest	orange
+eXtreme Bi-Polar Fleece Vest	blue
+Ye Olde Navy Fleece	navy
+bronze breastplate	bronze
+chocolate lump	brown
+candy stake	red
+fancy but probably evil chocolate	brown
+cosmic lemonade	yellow
+icicle katana	blue
+green glowstick	green
+red paperclip	red
+pink candy heart	pink
+orange candy heart	orange
+lavender candy heart	purple
+yellow candy heart	yellow
+green candy heart	green
+pink candygram	pink
+orange candygram	orange
+lavender candygram	purple
+yellow candygram	yellow
+green candygram	green
+ancient bronze token	bronze
+carved wooden wheel	brown
+heart of the filthworm queen	maroon
+pink clay bead	pink
+purple clay bead	purple
+green clay bead	green
+orange peel hat	orange
+green smoke bomb	green
+bunch of bananas	yellow
+banana	yellow
+banana peel	yellow
+red class ring	red
+blue class ring	blue
+natty blue ascot	navy
+worthless piece of yellow glass	yellow
+[2426]fire flower	red
+freezerburned ice cube	blue
+fake blood	gray
+Eau de Guaneau	green
+bag of lard	purple
+SPF 451 lip balm	red
+bottle of antifreeze	blue
+black eyedrops	gray
+Dogsgotnonoz pills	green
+donkey flipbook	purple
+pink glowstick	pink
+blue suede shoes	blue
+Necrotelicomnicon	gray
+Cookbook of the Damned	green
+Sinful Desires	purple
+round green sunglasses	green
+rusty chain necklace	rust
+tin star	bronze
+vial of mojo	purple
+golden reeds	gold
+distilled seal blood	maroon
+high-octane olive oil	olive
+rusty bonesaw	rust
+ant hoe	purple
+ant rake	red
+ant pitchfork	green
+ant sickle	gray
+ant pick	blue
+bronzed locust	bronze
+honey-dipped locust	yellow
+hot date	brown
+jar of swamp gas	green
+flaming feather	red
+frozen feather	blue
+frightful feather	gray
+fetid feather	green
+flirtatious feather	purple
+handful of moss	darkgreen
+duct tape	silver
+duct tape wallet	silver
+duct tape shirt	silver
+duct tape fedora	silver
+duct tape sword	silver
+duct tape dockers	silver
+duct tape buckler	silver
+plum	purple
+pear	brown
+peach	orange
+plum wine	purple
+shot of pear schnapps	brown
+shot of peach schnapps	orange
+brown sugar cane	brown
+Staff of the Walk-In Freezer	blue
+Staff of the Grease Trap	purple
+Red Balloon of Valor	red
+Purple Horseshoe of Honor	purple
+Blue Diamond of Honesty	blue
+Green Clover of Justice	green
+Yellow Moon of Compassion	yellow
+Orange Star of Sacrifice	orange
+Pink Heart of Spirit	pink
+solid gold bowling ball	gold
+steamy ruby	red
+glacial sapphire	blue
+unearthly onyx	gray
+effluvious emerald	green
+tawdry amethyst	purple
+filigreed hamethyst earring	pink
+filigreed hamethyst necklace	pink
+filigreed hamethyst ring	pink
+solid baconstone earring	maroon
+solid baconstone necklace	maroon
+solid baconstone ring	maroon
+pulled porquoise earring	teal
+pulled porquoise pendant	teal
+pulled porquoise ring	teal
+Earring of Fire	red
+Pendant of Fire	red
+Ring of Fire	red
+Ice-Cold Beerring	blue
+Ice-Cold Aluminum Necklace	blue
+Ice-Cold Beer Ring	blue
+Unspeakable Earring	gray
+Choker of the Ultragoth	gray
+The Ring	gray
+Nose Ring of Putrescence	green
+Putrid Pendant	green
+Ring of the Sewer Snake	green
+Mudflap-Girl Earring	purple
+Mudflap-Girl Necklace	purple
+Mudflap-Girl Ring	purple
+vial of hamethyst juice	pink
+vial of baconstone juice	maroon
+vial of porquoise juice	teal
+flask of hamethyst juice	pink
+flask of baconstone juice	maroon
+flask of porquoise juice	teal
+jug of hamethyst juice	pink
+jug of baconstone juice	maroon
+jug of porquoise juice	teal
+really dense meat stack	maroon
+digital key lime	green
+star key lime	green
+yellow glowstick	yellow
+branch from the Great Tree	brown
+chocolate filthy lucre	brown
+blue glowstick	blue
+yam candy	orange
+creamsicle	orange
+copper ha'penny charrrm	bronze
+copper ha'penny charrrm bracelet	bronze
+silver tongue charrrm	silver
+silver tongue charrrm bracelet	silver
+solid gold pegleg	gold
+gold lam&eacute; pants	gold
+purple corpsel	purple
+nanite-infested candy cane	red
+laser-broiled pear	brown
+golden ring	gold
+flamin' bindle	red
+freezin' bindle	blue
+stinkin' bindle	green
+spooky bindle	gray
+sleazy bindle	purple
+evil tomato juice of powerful power	red
+purple glowstick	purple
+Kissin' Cousins	red
+Tales from the Fireside	red
+Blizzards I Have Died In	blue
+Maxing, Relaxing	blue
+Biddy Cracker's Old-Fashioned Cookbook	green
+Travels with Jerry	green
+Let Me Be!	gray
+Asleep in the Cemetery	gray
+Summer Nights	purple
+Sensual Massage for Creeps	purple
+pink plastic baby	pink
+silver sausage	silver
+Frosty's carrot	orange
+handful of Crotchety Pine needles	darkgreen
+blue plasma ball	blue
+pretty pink bow	pink
+bed of coals	red
+frigid air mattress	blue
+filth-encrusted futon	green
+comfy coffin	gray
+stained mattress	purple
+banana-frosted king cake	yellow
+brown plastic baby	brown
+delectable fire ant	red
+scrumptious ice ant	blue
+delicious stinkbug	green
+yummy death watch beetle	gray
+tasty louse	purple
+Staff of the Deepest Freeze	blue
+lewd playing card	purple
+deck of lewd playing cards	purple
+sterno-flavored Hob-O	red
+frostbite-flavored Hob-O	blue
+fry-oil-flavored Hob-O	purple
+garbage-juice-flavored Hob-O	green
+strawberry-flavored Hob-O	gray
+cotton candy cocoon	pink
+cotton candy cordial	pink
+cotton candy cone	pink
+cotton candy pinch	pink
+cotton candy smidgen	pink
+cotton candy skoshe	pink
+cotton candy plug	pink
+cotton candy pillow	pink
+cotton candy bale	pink
+blue plastic baby	blue
+blueberry-frosted king cake	blue
+cranberry cordial	maroon
+plum lozenge	purple
+pear lozenge	brown
+peach lozenge	orange
+giant glass of brandy	maroon
+sea carrot	orange
+sea cucumber	green
+sea avocado	darkgreen
+sea lychee	red
+sea tangelo	orange
+sea honeydew	olive
+berry-infused sake	red
+citrus-infused sake	orange
+melon-infused sake	green
+sugar plum	purple
+sugar banana	yellow
+sugar lime	green
+sugar cherry	red
+rusty speargun	rust
+rusty compass	tust
+rusty broken diving helmet	rust
+rusty porthole	rust
+rusty rivet	rust
+rusty diving helmet	rust
+seaweed	darkgreen
+tempura carrot	orange
+tempura cucumber	green
+tempura avocado	darkgreen
+sea broccoli	green
+tempura broccoli	green
+sea blueberry	blue
+sea persimmon	orange
+marine aquamarine	teal
+rusty valve wheel	rust
+rusty old lantern	rust
+possessed tomato	red
+pile of gold coins	gold
+love song of smoldering passion	red
+love song of icy revenge	blue
+love song of sugary cuteness	green
+love song of disturbing obsession	gray
+love song of naughty innuendo	purple
+Mer-kin pinkslip	pink
+pink pinkslip slip	pink
+amber aviator shades	amber
+chocolate-frosted king cake	brown
+red plastic baby	red
+Grandma's Fuchsia Yarn	fuchsia
+Grandma's Chartreuse Yarn	chartreuse
+sea radish	red
+leaf of grass	green
+grass whistle	green
+vial of red slime	red
+vial of yellow slime	yellow
+vial of blue slime	blue
+vial of orange slime	orange
+vial of green slime	green
+vial of violet slime	violet
+vial of vermilion slime	vermilion
+vial of amber slime	amber
+vial of chartreuse slime	chartreuse
+vial of teal slime	teal
+vial of indigo slime	indigo
+vial of purple slime	purple
+vial of brown slime	brown
+tainted seal's blood	maroon
+evil-ass club	gray
+nasty-ass club	green
+stuffed Meat	maroon
+hot-ass club	red
+frigid-ass club	blue
+creepy-ass club	purple
+blue shell	blue
+torquoise	teal
+torquoise ring	teal
+#4000
+rusty metal greaves	rust
+rusty piece of rebar	rust
+banana milkshake	yellow
+Indigo Party Invitation	indigo
+Violet Hunt Invitation	violet
+Blue Milk Club Card	blue
+Mecha Mayhem Club Card	silver
+Ruby Rod	red
+essence of heat	red
+essence of kink	purple
+essence of cold	blue
+essence of stench	green
+essence of fright	gray
+essence of cute	pink
+pool of liquid metal	silver
+green peawee marble	green
+brown crock marble	brown
+red China marble	red
+lemonade marble	yellow
+bumblebee marble	yellow
+beige clambroth marble	red
+steely marble	silver
+monstrous monocle	gray
+musty moccasins	green
+molten medallion	red
+brazen bracelet	purple
+bitter bowtie	blue
+red wagon	red
+live lobster	maroon
+wok lobster	red
+brass dorsal fin	bronze
+hungover chauvinist pig	pink
+perfectly ordinary frog	green
+silver paté knife	silver
+silver salt-shaker	silver
+silver cheese-slicer	silver
+chocolate-covered scarab beetle	brown
+pumpkinhead mask	orange
+bark boxers	brown
+bark beret	brown
+bark bracelet	brown
+crystal orb of spirit wrangling	red
+suspicious stocking	red
+candy kneecapping stick	red
+fancy chocolate car	brown
+Crimbough	darkgreen
+pointy red hat	red
+grass clippings	green
+chocolate seal-clubbing club	brown
+chocolate turtle totem	brown
+chocolate pasta spoon	brown
+chocolate saucepan	brown
+chocolate disco ball	brown
+chocolate stolen accordion	brown
+gilded BRICKO brick	gold
+gilded BRICKO chalice	gold
+green BRICKO brick	green
+flamingo mallet	pink
+brown pixel	brown
+bronze handcuffs	bronze
+silver keg	silver
+chocolate-covered caviar	brown
+Meteoid ice beam	blue
+antique pair of blue jeans	navy
+hot plate	red
+booze-soaked cherry	red
+red-hot medallion	red
+lemon popsicle	yellow
+orange popsicle	orange
+strawberry popsicle	red
+pumpkin	orange
+huge pumpkin	orange
+pumpkin bomb	orange
+shin gourds	orange
+ginormous pumpkin	orange
+Antagonistic Snowman Kit	orange
+chocolate cigar	brown
+gaudy key	gold
+mysterious silver lapel pin	silver
+cranberry schnapps	maroon
+Red Pill	red
+orange leather lanyard	orange
+handful of honey	gold
+honeypot	gold
+wild honey pie	gold
+honey mead	gold
+honey dipper	gold
+honeybritches	gold
+honeycap	gold
+elven medi-pack	red
+honey stick	gold
+ectoplasmic paste	gray
+demonic paste	red
+slimy paste	purple
+penguin paste	blue
+hobo paste	green
+bite-me-red lipstick	maroon
+Blood 'n' Plenty	maroon
+extremely skinny jeans	navy
+bananagate	yellow
+pearidot	brown
+tourmalime	green
+kumquartz	orange
+strawberyl	red
+peppermint sprout	red
+peppermint twist	red
+peppermint patty	red
+peppermint crook	red
+candy cane candygram	red
+peppermint parasol	red
+giant candy cane	red
+cane-mail shirt	red
+cane-mail pants	red
+banana supersucker	yellow
+pear supersucker	brown
+lime supersucker	green
+kumquat supersucker	orange
+strawberry supersucker	red
+bananarama bangle	yellow
+pair of pearidot earrings	brown
+tourmalime tourniquet	green
+kumquartz ring	orange
+strawberyl necklace	red
+cinnamon troll doll	red
+grape troll doll	purple
+blue raspberry troll doll	blue
+fudgecule	brown
+fudge lily	brown
+superheated fudge	brown
+fluid of fudge-finding	brown
+frigid fudgepuck	brown
+fudgesicle	brown
+red gummi ingot	red
+green gummi ingot	green
+yellow gummi ingot	yellow
+Fudgie Roll	brown
+fudge bunny	brown
+fudge spork	brown
+fudgecycle	brown
+fudge cube	brown
+giant red gummi ingot	red
+giant green gummi ingot	green
+giant yellow gummi ingot	yellow
+giant red gummi bear	red
+giant green gummi bear	green
+giant yellow gummi bear	yellow
+red drunki-bear	red
+green drunki-bear	green
+yellow drunki-bear	yellow
+fudge pocket square	brown
+Atomic Pop	red
+purple prose pen	purple
+green eggnog	green
+green hamhock	green
+Rain-Doh red wings	red
+Rain-Doh orange agent	orange
+Rain-Doh yellow laser gun	orange
+Rain-Doh green lantern	green
+Rain-Doh blue balls	blue
+Rain-Doh indigo cup	indigo
+Rain-Doh violet bo	purple
+beery blood	maroon
+fireman's helmet	red
+rusty staff	rust
+shiny gold fronts	gold
+soft green echo eyedrop antidote martini	green
+gold toothbrush	gold
+Little Crimson Book	red
+blue canary nightlight	blue
+gold wedding ring	gold
+huge gold coin	gold
+cartoon heart	pink
+gold star	gold
+green cloth cap	green
+red potion	red
+blue potion	blue
+round blue bomb	blue
+whole roasted chicken	brown
+extra-strength red potion	red
+fancy blue potion	blue
+shining goblet	gold
+fireball	red
+gold crown	gold
+flaming sword	red
+Shield of Icy Fate	blue
+Crimbo Elf creepy bobble-head	gray
+Crimbo stogie-scented room odorizer	green
+Crimbo bottomless hot cocoa mug	red
+Crimbo tree flocker	blue
+Crimbo light-up Rudolph doll	purple
+Microplushie: Hippylase	green
+Microplushie: Sororitrate	purple
+Microplushie: Gothochondria	gray
+Microplushie: Ermahgerdic Acid	red
+furry pink pillow	pink
+furry brown pillow	brown
+gold piece	gold
+carrot nose	orange
+carrot juice	orange
+consummate fried egg	yellow
+consummate bagel	brown
+consummate sliced bread	brown
+consummate hot dog bun	brown
+consummate brownie	brown
+consummate toast	brown
+consummate corn chips	gold
+consummate cheese slice	yellow
+consummate melted cheese	yellow
+consummate bacon	maroon
+consummate meatloaf	maroon
+consummate steak	maroon
+consummate cold cuts	pink
+consummate frankfurter	orange
+consummate baked potato	brown
+consummate strawberries	red
+the kindest cold cut	maroon
+giant turkey leg	brown
+pewter claymore	silver
+giant heirloom grape tomato	red
+brown felt tophat	brown
+brass gear	bronze
+Mark I Steam-Hat	brown
+Mark II Steam-Hat	brown
+Mark III Steam-Hat	brown
+Mark IV Steam-Hat	brown
+Mark V Steam-Hat	brown
+aquamariner's ring	teal
+aquamariner's necklace	teal
+super-strong air freshener	darkgreen
+pulled yellow taffy	yellow
+pulled indigo taffy	indigo
+pulled green taffy	green
+pulled blue taffy	blue
+pulled orange taffy	orange
+pulled violet taffy	purple
+pulled red taffy	red
+root beer	brown
+twist of lime	green
+pencil stub	orange
+brass Dreadsylvanian flask	bronze
+silver Dreadsylvanian flask	silver
+dreadful roast	maroon
+shiny brass tailfeathers	bronze
+wax banana	yellow
+blood kiwi	brown
+moon-amber	orange
+polished moon-amber	orange
+moon-amber necklace	orange
+warm fur	red
+snowstick	blue
+eerie fetish	gray
+accidental mutton	brown
+hothammer	red
+vial of hot blood	maroon
+blood sausage	maroon
+hot cluster	red
+cold cluster	blue
+spooky cluster	gray
+stench cluster	green
+sleaze cluster	purple
+phial of hotness	red
+phial of coldness	blue
+phial of spookiness	gray
+phial of stench	green
+phial of sleaziness	purple
+Dreadsylvanian hot pocket	red
+Dreadsylvanian cold pocket	blue
+Dreadsylvanian spooky pocket	gray
+Dreadsylvanian stink pocket	green
+Dreadsylvanian sleaze pocket	purple
+hot clusterbomb	red
+cold clusterbomb	blue
+spooky clusterbomb	gray
+stench clusterbomb	green
+sleaze clusterbomb	purple
+folder (red)	red
+folder (blue)	blue
+folder (green)	green
+folder (magenta)	magenta
+folder (cyan)	cyan
+folder (yellow)	yellow
+yellowcake bomb	yellow
+bag of pygmy blood	maroon
+gold Boozehounds Anonymous token	gold
+tangle of copper wire	bronze
+handful of barley	brown
+cluster of hops	green
+Tallowcreme Halloween Pumpkin	orange
+Milk Studs	brown
+little red jam	red
+8-bit banana	yellow
+vial of blood simple syrup	maroon
+pat of butter	yellow
+dinner roll	brown
+whole turkey leg	brown
+pocket lint (blue)	blue
+pocket lint (green)	green
+pocket lint (orange)	orange
+Golden Light	gold
+chocotini	brown
+chocolate rabbit's foot	brown
+candy carrot	orange
+lemony scales	yellow
+lemon party hat	yellow
+lemon shirt	yellow
+lemon drop trousers	yellow
+lemonhead caviar	yellow
+chocolate cow bone	brown
+silver cow creamer	silver
+hi-octane carrot juice	orange
+odd silver coin	silver
+solid gold rosary	gold
+red silk skirt	red
+Green Manalishi	green
+fleetwood macaroni	yellow
+red box	red
+red red wine	red
+red rum	red
+red velvet cake	red
+red letter	red
+red book	red
+red masque	red
+red-hot poker	red
+Red X Shield	red
+red badge	red
+red shirt	red
+red coat	red
+red shoe	red
+big red button	red
+red button	red
+red blood cells	red
+red eye	red
+Red Fox glove	red
+red foxglove	red
+old rosewater cream	pink
+old bronzer	bronze
+moose chocolate	brown
+bloodstain stick	maroon
+Gene Tonic: Undead	gray
+Gene Tonic: Demon	red
+Gene Tonic: Plant	blue
+Gene Tonic: Slime	purple
+Gene Tonic: Hobo	green
+airplane charter: Spring Break Beach	purple
+one-day ticket to Spring Break Beach	purple
+dark hamethyst ring	pink
+dark baconstone ring	maroon
+dark porquoise ring	teal
+Mornington crescent roll	brown
+loaf of alien bread	brown
+hot ashes	red
+dollop of barbecue sauce	maroon
+ham steak	pink
+rack of dinosaur ribs	maroon
+haunted flame	orange
+artisanal hand-squeezed wheatgrass juice	olive
+Red Army camouflage kit	red
+blue oyster badge	blue
+irradiated turtle	chartreuse
+famous blue raincoat	blue
+blue grass	blue
+airplane charter: Conspiracy Island	gray
+one-day ticket to Conspiracy Island	gray
+camouflage T-shirt	darkgreen
+limp broccoli	green
+giant yellow hat	yellow
+khaki duffel bag	olive
+Z-Bone steak	maroon
+seared dino steak	maroon
+gelatinous meat mass	maroon
+sentient meat mass	maroon
+special clip: tracers	red
+special clip: wailers	gray
+special clip: squelchers	purple
+special clip: splatterers	purple
+special clip: boneburners	red
+special clip: graveburpers	green
+Fudge Fiber Armor Plating	brown
+ruby on canes	red
+peppermint tailings	red
+brass turkey knuckles	bronze
+gold tooth	gold
+minin' dynamite	red
+Crimbo sapling	darkgreen
+Aggressive Carrot	orange
+choco-Crimbot	brown
+#8000
+tope&eacute;	green
+topiary tights	green
+topiary necktie	green
+bowl of topioca	green
+topiary skunk	green
+topiary noseplugs	green
+golden monkey statuette	gold
+golden banana	gold
+powdered gold	gold
+gold nuggets	gold
+Spelunker's khakis	olive
+solid gold jewel	gold
+half of a gold tooth	gold
+magical baguette	brown
+ginger snaps	brown
+brown paper pants	brown
+brown paper bag mask	brown
+breadwand	brown
+loafers	brown
+Cherrytastrophe wine cooler	red
+Radberry Rip wine cooler	teal
+Orangemageddon wine cooler	orange
+Breakfast Blast wine cooler	yellow
+Citrus Crush wine cooler	yellow
+airplane charter: Dinseylandfill	green
+one-day ticket to Dinseylandfill	green
+yellow puck	yellow
+orange boxing gloves	orange
+yellow pixel	yellow
+pixel coin	gold
+pixel star	gold
+pixel banana	yellow
+yellow puck with a bow on it	yellow
+blue pumps	blue
+piggy tattoo	pink
+little red .epub file	red
+bottle of Red-Out	red
+handful of fire	orange
+shamanic ham	pink
+bronze polish	bronze
+radioactive spider venom	chartreuse
+yellow submarine	yellow
+pixel lemon	yellow
+yellow pixel potion	yellow
+red mana	red
+green mana	green
+blue mana	blue
+1,970 carat gold	gold
+red LavaCo Lamp&trade;	red
+blue LavaCo Lamp&trade;	blue
+green LavaCo Lamp&trade;	green
+thin gold wire	gold
+red lava globs	red
+blue lava globs	blue
+green lava globs	green
+uncapped red lava bottle	red
+uncapped blue lava bottle	blue
+uncapped green lava bottle	green
+capped red lava bottle	red
+capped blue lava bottle	blue
+capped green lava bottle	green
+one-day ticket to That 70s Volcano	red
+airplane charter: That 70s Volcano	red
+pink slime	pink
+squeaky toy rose	red
+weird gazelle steak	maroon
+silver face paint	silver
+fiberglass insulation	pink
+barrel pickle	green
+barrel beryl	teal
+brass bung spigot	bronze
+barrel beryl choker	teal
+barrel beryl nose ring	teal
+barrel beryl ring	teal
+cuppa Flamibili tea	red
+cuppa Yet tea	blue
+cuppa Boo tea	gray
+cuppa Nas tea	green
+cuppa Improprie tea	purple
+cuppa Frost tea	red
+cuppa Toast tea	blue
+cuppa Net tea	green
+cuppa Proprie tea	purple
+cuppa Morbidi tea	gray
+blood and blood	maroon
+tennis ball	yellow
+rotten tomato	red
+red tulip	red
+blue tulip	blue
+airplane charter: The Glaciest	blue
+one-day ticket to The Glaciest	blue
+ancient medicinal herbs	olive
+iced plum wine	purple
+self-dribbling basketball	orange
+bread line	brown
+BACON	maroon
+chocolate bowtie	brown
+pitted sheet metal	silver
+red armband	red
+pine cone	brown
+faded green protest sign	green
+faded red protest sign	red
+little red book	red
+green face paint	green
+red face paint	red
+Mansquito's blood	maroon
+nugget of wicksilver	red
+nugget of slicksilver	purple
+nugget of sicksilver	green
+wicksilver ring	red
+slicksilver ring	purple
+sicksilver ring	green
+Hellfire Spicy Beans	red
+Frigid Northern Beans	blue
+World's Blackest-Eyed Peas	gray
+Trader Olaf's Exotic Stinkbeans	green
+Pork 'n' Pork 'n' Pork 'n' Beans	purple
+Glenn's golden dice	gold
+Former Sheriff Dan's tin star	bronze
+rotting beefsteak	maroon
+steel knuckles	silver
+strange disc (red)	red
+strange disc (green)	green
+strange disc (blue)	blue
+strange disc (yellow)	yellow
+demonic cow's blood	maroon
+silver cow skull	silver
+wicksilver spurs	red
+slicksilver spurs	purple
+sicksilver spurs	green
+wriggling worm	pink
+green pill	green
+bronze detective badge	bronze
+silver detective badge	silver
+gold detective badge	gold
+raw sweet potato	brown
+raw green beans	green
+raw cranberry sauce	maroon
+raw turkey	brown
+raw potato	brown
+raw gravy	brown
+cranberry cylinder	maroon
+thanksgiving turkey	brown
+bread roll	brown
+cashew	brown
+pumpkin spice candle	orange
+spare chocolate parts	brown
+spiritual candy cane	red
+spiritual gingerbread	brown
+chocolate puppy	brown
+chocolate leash	brown
+green rock candy	green
+green-iced sweet roll	green
+fancy chocolate sculpture	brown
+saffron antaravasaka	orange
+saffron uttarasanga	orange
+hot jelly	red
+cold jelly	blue
+spooky jelly	gray
+sleaze jelly	purple
+stench jelly	green
+toast with hot jelly	red
+toast with cold jelly	blue
+toast with spooky jelly	gray
+toast with sleaze jelly	purple
+toast with stench jelly	green
+pewter candlestick	silver
+tarnished luggage key	rust
+LOV Extraterrestrial Chocolate	brown
+LOV Echinacea Bouquet	pink
+Silver HP-35 Calculator	silver
+Golden HP-35 Calculator	gold
+Platinum HP-35 Calculator	silver
+pickled grasshopper	green
+bottle of novelty hot sauce	red
+peppermint sprig	red
+shot of granola liqueur	olive
+baby oil shooter	purple
+limepatch	green
+imaginary lemon	yellow
+Phlegethon	red
+morning dew	green
+great old fashioned	gray
+extremely slippery nipple	purple
+piscatini	blue
+reverse Tantalus	red
+hell in a bucket	green
+R'lyeh	gray
+Mysterious Island iced tea	purple
+drive-by shooting	blue
+alien meat	maroon
+primitive alien spear	red
+primitive alien blowgun	purple
+primitive alien loincloth	green
+primitive alien totem	gray
+primitive alien necklace	blue
+Victor's Spoils	olive
+golden tattoo gun	gold
+golden gun	gold
+golden gum	gold
+blessed rustproof +2 gray dragon scale mail	gray
+roll of meat	maroon
+little piece of steel	silver
+hushed puppy	brown
+burning newspaper	orange
+burning paper hat	green
+burning cape	red
+burning paper slippers	blue
+burning paper jorts	purple
+burning paper crane	gray
+deceased crimbo tree	darkgreen
+heart-shaped candy whetstone	pink
+Swedish massage fish	red
+heart cozy	pink
+Mysterious Red Box	red
+Mysterious Green Box	green
+Mysterious Blue Box	blue
+green rocket	green
+plump purple mushroom	purple
+dragon aluminum ore	silver
+FantasyRealm turkey leg	brown
+nasty haunch	maroon
+denastified haunch	maroon
+chocolate Ogre Chieftain	brown
+chocolate "Phoenix"	brown
+chocolate Spider Queen	brown
+good guava	green
+gaseous gravy	brown
+gas can	red
+neverending wallet chain	silver
+gold skull ring	gold
+Purple Beast energy drink	purple
+cosmetic football	brown
+very small red dress	red
+green slime glob	green
+orange slime glob	orange
+#10000
+haunted orange	orange
+tiny plastic wild beaver	purple
+tiny plastic reindeer	blue
+tiny plastic Café Elf	red
+tiny plastic orphan	green
+tiny plastic Abuela Crimbo	gray
+mooseflank	maroon
+grilled mooseflank	maroon
+beaver punch (papaya)	green
+beaver punch (peach)	orange
+beaver punch (cherry)	red
+red-hot sausage fork	red
+Mallomarbles	brown
+chocolate-covered loofah	brown
+blood bag	maroon
+bloodstick	maroon
+bottle of Sanguiovese	maroon
+actual blood sausage	maroon
+mulled blood	maroon
+blood snowcone	maroon
+Red Russian	maroon
+blood roll-up	maroon
+dusty bottle of blood	maroon
+blood-soaked sponge cake	maroon
+vampagne	maroon
+red money bag	red
+blue money bag	blue
+blood knife	maroon
+pineapple slab	yellow
+hibiscus petal	pink
+huge mint leaf	green
+Red Roger's red right hand	red
+Red Roger's red left hand	red
+Red Roger's red right foot	red
+Red Roger's red left foot	red
+pewter shavings	silver
+lucky gold ring	gold
+magenta seashell	magenta
+cyan seashell	cyan
+gray seashell	gray
+green seashell	green
+yellow seashell	yellow
+kelp	olive
+mana-coated yams	orange
+mana-basted tofurkey leg	brown
+mana-fortified cranberry sauce	maroon
+patch of extra-warm fur	blue
+unfinished pleasure	gray
+organic potpourri	green
+infernal snowball	red
+goodberry	red
+extra-strength goo	purple
+peppermint harpoon gun	red
+ojo de pez burrito	brown
+salt plum	purple
+Crimbylow-rise jeans	navy
+kelp-holly drape	olive
+Staff of the Peppermint Twist	red
+status cymbal	bronze
+coin	gold
+[10462]fire flower	red
+bonfire flower	red
+red coin	red
+red plumber's boots	red
+rusty kettle bell	rust
+Ghiaccio Colada	blue
+Sourfinger	gray
+Nog-on-the-Cob	green
+Steamboat	red
+Buttery Boy	purple
+batting cage key	green
+aquí	red
+weremoose key	gray
+ice key	blue
+deep-fried key	purple
+ancient redwood	maroon
+redwood rain stick	maroon
+purpleheart logs	purple
+purpleheart "pants"	purple
+wormwood stick	gray
+wormwood wedding ring	gray
+sizzling desk bell	red
+frost-rimed desk bell	blue
+uncanny desk bell	gray
+nasty desk bell	green
+greasy desk bell	purple
+flame orb	orange
+neck wreath	darkgreen
+gilded trumpet	gold
+imported lemon lozenge	yellow
+tinsel orb	gray
+snowpack	blue
+Satan hat	red
+Crimbo stockings	purple
+poncho de azucar	green
+tiny glowing red nose	red
+drive-thru burger	purple
+Boulevardier cocktail	blue
+Hotwire&trade; brand candy rope	red
+green marshmallow	green
+blue plate	blue
+short stick of butter	yellow
+yellow rocket	yellow
+blue rocket	blue
+red rocket	red
+Arr, M80	red
+Smoldering Clover&trade; candle	green
+banana candle	yellow
+rusty empty nacho cheese can	rust
+ice crown	navy
+frozen jeans	navy
+ice wrap	navy
+anti-burn cream	red
+anti-freeze cream	blue
+anti-goosebump cream	gray
+anti-odor cream	green
+anti-creep cream	purple
+poisonsettia	red
+peppermint-scented socks	red
+&quot;caramel&quot; orange	orange
+lab-grown meat	maroon
+golden fleece	gold
+meatball	maroon
+11-leaf clover	green
+emergency glowstick	chartreuse
+guilty sprout	green
+designer sweatpants (new old stock)	purple
+designer sweatpants	purple
+Dinodollar	green
+valuable dinosaur droppings	brown
+reflective vest	orange
+autumn leaf	rust
+autumn sweater-weather sweater	rust
+autumn debris shield	rust
+autumn-spice donut	rust
+autumn leaf pendant	rust
+honey bun of Boris	yellow
+Boris's bread	brown
+swamp haunch	maroon
+chiffon lemon	yellow
+chocomotive	brown
+Abuela Crimbo's special magnet	red
+silver table-scraper	silver
+chocolate covered ping-pong ball	brown
+glob of extra-green chlorophyll	green
+big hot pepper	red
+fire ant pheromones	red
+filled mosquito	maroon
+shim of shame shale	purple
+replica Dark Jill-O-Lantern	orange
+replica cotton candy cocoon	pink
+replica Crimbo sapling	darkgreen
+replica yellow puck	yellow
+replica designer sweatpants	purple
+replica plastic pumpkin bucket	orange
+replica Ten Dollars	green
+Lapis Lazuli	blue
+Eye Agate	blue
+Azurite	blue
+Sexy Cosmo	pink
+Souvenir Chopsticks	brown
+red-soled high heels	red
+watermelon	green
+waffle	brown
+tiny gold medal	gold
+bottle of Cabernet Sauvignon	maroon
+ancient meat	maroon
+Dark Jill-of-All-Trades	orange
+inflammable leaf	rust
+autumnal aegis	rust
+super-heated leaf	red
+leafy browns	rust
+candy cane sword cane	red
+salted mutton	maroon
+corned beet	maroon
+military-grade peppermint oil	red
+peppermint bomb	red
+peppermint tack	red
+whalesteak	maroon
+red and white claret	red
+Elf Guard red and white beret	red
+brown pirate pants	brown
+sugarplum ration	purple
+candied lime	green
+military candy cane	red
+moss mulch	darkgreen
+moss floss	darkgreen
+adobe assortment	rust
+adobe brittle	rust
+ultra-soft ferns	green
+crunchy brush	rust
+yam	brown
+Mayam spinach	green
+mini kiwi	brown
+extra ooze	purple
+Too Cold to Hold: How to Be Cool - A Memoir	blue
+Too Cold to Hold: How to Be Cool - A Memoir (read)	blue
+Mmm-brr! brand mouthwash	blue
+head of emberg lettuce	green
+tiny ember	red
+feather boa	pink
+whirled peas	green
+handful of split pea soup	green
+tankard of spiced Goldschlepper	gold
+golden pet rock	gold
+peppermint pegleg	red
+coney haunch	maroon
+dark chocolate egg	brown
+four-leaf potato sprout	green
+gravy skin	brown
+gravyskin hat	brown
+gravyskin buckler	brown
+gravyskin skirt	brown
+gravyskin pants	brown
+crystallized pumpkin spice	orange
+ragged wool yarn	red
+perfect Christmas scarf	red
+pumpkin spice whorl	orange
+Easter grasshopper	green
+chocolate ostrich egg	brown
+Christmas ham	pink
+clovermint	green
+heat arc	red
+cold scrape	blue
+foul line	green
+shame coil	purple
+heat particle	red
+cold sore	blue
+stomach churner	purple
+foul cozy	green
+
+#11882
+
