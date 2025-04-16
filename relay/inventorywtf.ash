@@ -105,6 +105,7 @@ buffer InventoryWTF(buffer page) {
 	open,
 	order,
 	orderstuff,
+	parachute,
 	plate,
 	play,
 	ponder,
@@ -122,6 +123,7 @@ buffer InventoryWTF(buffer page) {
 	shake,
 	shake pan,
 	shape it,
+	shower,
 	smash,
 	spend,
 	SPEND,
@@ -132,6 +134,7 @@ buffer InventoryWTF(buffer page) {
 	subscribe,
 	switch,
 	tap,
+	think,
 	trade,
 	tune moon,
 	twist horns,
@@ -201,23 +204,23 @@ buffer InventoryWTF(buffer page) {
 		if (it==$item[none]) {
 			//do nothing
 		} else if (it.quest) {
-			itemname = "<b class=itquest>"+itemname+"</b>";
+			itemname = "<span class=itquest>"+itemname+"</span>";
 		} else if (false && historical_price(it)>EXPCOST) {
-			itemname = "<b class=itexp>"+itemname+"</b>";
+			itemname = "<span class=itexp>"+itemname+"</span>";
 		} else if (false) {
-			itemname = "<b class=itcool>"+itemname+"</b>";
+			itemname = "<span class=itcool>"+itemname+"</span>";
 		} else if (!(it.tradeable)) {
-			itemname = "<b class=itnotrade>"+itemname+"</b>";
+			itemname = "<span class=itnotrade>"+itemname+"</span>";
 		}
 		//add quality color
 		qcol=QualColor(it.quality);
 		if (qcol!="") {
-			itemname = "<b class="+qcol+">"+itemname+"</b>";
+			itemname = "<span class="+qcol+">"+itemname+"</span>";
 		}
 		//Check for class restrictions
 		itclass = string_modifier(itemname,"Class");
 		if (itclass!="" && my_class()!=to_class(itclass)) {
-			itemname = "<b class=strike>"+itemname+"</b>";
+			itemname = "<span class=strike>"+itemname+"</span>";
 		}
 		
 		//here is where the magic happens
