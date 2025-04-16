@@ -44,12 +44,12 @@ buffer SellStuffWTF(buffer page) {
 		//add quality color
 		qcol=QualColor(it.quality);
 		if (qcol!="") {
-			itemname = "<b class="+qcol+">"+itemname+"</b>";
+			itemname = "<span class="+qcol+">"+itemname+"</span>";
 		}
 		//Check for class restrictions
 		itclass = string_modifier(itemname,"Class");
 		if ( itclass!="" && my_class()!=to_class(itclass) ) {
-			itemname = "<b class=strike>"+itemname+"</b>";
+			itemname = "<span class=strike>"+itemname+"</span>";
 		}
 		
 		//here is where the magic happens

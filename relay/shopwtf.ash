@@ -85,17 +85,17 @@ buffer ShopWTF(buffer page) {
 		itemqty = " ("+to_string(available_amount(it))+")";
 		//highlight quest items
 		if (it.quest) {
-			itemname = "<b class=questitem>"+itemname+"</b>";
+			itemname = "<span class=questitem>"+itemname+"</span>";
 		}
 		//add quality color
 		qcol = QualColor(it.quality);
 		if (qcol != "") {
-			itemname = "<b class="+qcol+">"+itemname+"</b>";
+			itemname = "<span class="+qcol+">"+itemname+"</span>";
 		}
 		//Check for skills from skill items/books
 		if (contains_text(desctext,"Skill:")) {
 			if (have_skill(skill_modifier(it,"Skill"))) {
-				itemname = "<b class=itcool>"+itemname+"</b>";
+				itemname = "<span class=itcool>"+itemname+"</span>";
 			}
 		}
 		//add item inventory qty
