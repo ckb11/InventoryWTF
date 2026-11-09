@@ -495,6 +495,7 @@ string DescItem(item it) {
 		}
 	}
 	desctext = DescCombine(desctext,noobtext);
+	if (it.tradeable && get_property("wtfmallval").to_boolean()) { desctext = DescCombine(desctext,"Mallval: "+it.historical_price().to_string("%,d")); }
 	
 	return desctext;
 }
