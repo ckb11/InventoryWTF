@@ -182,8 +182,8 @@ buffer InventoryWTF(buffer page) {
 	
 	
 	//find items on page
-	matcher mit = create_matcher("(><b .*?rel=\"(\\d+)\".*?>)([^<>]+)(?:</a>)?</b>(&nbsp;<span>[0-9()]*</span>|</a> [0-9()]*)?(?! moved from storage)((?:.(?<!</td>))*?Power: \\d+)?(.*?)</td>", page);
-	//regex:                      1:preable     2:descid      3:item      4:quantity-optional-varies                  ?:non-capture          5:powerpre-optional            6:powerpost
+	matcher mit = create_matcher("(><b .*?rel=\"(\\d+)\".*?>)((?:<span[^>]+>)?[^<>]+(?:</span>)?)(?:</a>)?</b>(&nbsp;<span>[0-9()]*</span>|</a> [0-9()]*)?(?! moved from storage)((?:.(?<!</td>))*?Power: \\d+)?(.*?)</td>", page);
+	//regex:                      1:preable     2:descid      3:item                                          4:quantity-optional-varies                  ?:non-capture          5:powerpre-optional            6:powerpost
 	
 	while (find(mit)) {
 		desctext = "";
